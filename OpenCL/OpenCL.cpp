@@ -81,7 +81,6 @@ void ProcessArray()
     std::cin.get();
 }
 
-
 int main()
 {
     ProcessArray();
